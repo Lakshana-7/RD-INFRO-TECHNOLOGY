@@ -18,6 +18,3 @@ This project is a simple Python-based *Contact Book* application that allows use
 2. User selects an option by entering a number
 3. Data is stored in memory using Python dictionaries during the session
 4. Loop runs until user selects "Exit"
-
-## 📽 Demo Video:
-▶ [Click here to watch the demo video](    )
