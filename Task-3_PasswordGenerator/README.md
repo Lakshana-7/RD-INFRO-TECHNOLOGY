@@ -17,6 +17,3 @@ This Python project generates a random and secure password based on user-defined
    - Numbers (0–9)
    - Special characters (e.g., @, #, !, etc.)
 3. The password is displayed on the screen.
-
-## 📽 Demo Video:
-▶ [Click here to watch the demo video](    )
